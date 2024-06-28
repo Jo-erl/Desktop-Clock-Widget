@@ -8,4 +8,4 @@ Press `Win+R`, type `shell:startup`, and press Enter.
 
 This opens the Startup folder.
 
-Create a shortcut to your exe and place it in this folder.
+Create a shortcut to the exe file and place it in this folder.

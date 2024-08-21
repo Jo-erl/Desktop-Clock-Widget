@@ -86,9 +86,9 @@ y = y_margin
 root.geometry(f"+{x}+{y}")
 
 # Load custom font
-custom_font = font.Font(family="coolvetica", size=60, weight="bold")
-custom_font_small = font.Font(family="coolvetica", size=10)
-custom_font_date = font.Font(family="coolvetica", size=12)
+custom_font = font.Font(family="Montserrat", size=60, weight="bold")
+custom_font_small = font.Font(family="Montserrat", size=10)
+custom_font_date = font.Font(family="Montserrat", size=12)
 
 # Create main canvas
 canvas = tk.Canvas(root, width=width, height=height, bg='black', highlightthickness=0)
